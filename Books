@@ -9,15 +9,19 @@ STM32F401(Arduino) - Internet
 STM32F411(Arduino) - Internet
 Mastering the FreeRTOS Real Time Kernel - Richard Barry
 
-ENGINEERING -
+ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
-Circuit Theory Analysis and Synthesis - Abhijit Chakrabarti
+Fundamentals of Electric Circuits - Charles K. Alexander
+Pulse and Digital Circuits - Venkata Rao K.
+The Analysis and Design of Linear Circuits - Roland E. Thomas
 Electronic Devices and Circuits - Robert L. Boylestad
-Digital Electronics Principles and ICs - Anil K. Maini
-Control Systems Engineering - I.J. Nagrath
-Elements of Electromagnetics - Matthew N.O. Sadiku
-Microwave Engineering - Annapurna Das
-Antenna and Wave Propagation - A.K. Gautam
+Electronic Devices and Circuits - Jacob Millman
+Microelectronics Circuit Analysis and Design - Donald aa. Neamen
+Op-Amps and Linear ICs - Ramakant A. Gayakwad
+Opamps and Linear ICs - Robert F. Coughlin
+Analog Filter Design - Rolf E. Schaumann
+
+DIGITAL SIGNAL PROCESSING -
 Getting Started with MATLAB - Rudra Pratap
 Signals and Systems - Tarun Kumar Rawat
 Digital Signal Processing - Tarun Kumar Rawat
@@ -25,5 +29,4 @@ Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
 
 MATHEMATICS & PHYSICS -
 Fundamentals of Mathematics - Sanjay Mishra
-Calculus - Maurice D. Weir
 Understanding Physics - D.C. Pandey
